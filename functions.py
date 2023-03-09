@@ -23,6 +23,9 @@ def add_all_the_money(numbers):
     # print(all_number_multiplied) 
     return all_money_sumed  
 
+
+
+
 # main function (self invoking function)
 if __name__ == "__main__":
     basic_function()
