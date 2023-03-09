@@ -26,7 +26,6 @@ def main():
     # greetings everyone,
     #         i am ram
     #         and i am from nepal
-
     
 if __name__ == "__main__":
     main()
