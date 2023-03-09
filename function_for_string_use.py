@@ -22,6 +22,11 @@ def main():
     location = ask_location() # calls ask_location() function and recives location inputed by user in variable location
     my_informations = concat_and_return(name,location) # sends both name and location to concat_and_return() finction
     print(my_informations) # print my information returnrd from concat_and_return function
+    # output
+    # greetings everyone,
+    #         i am ram
+    #         and i am from nepal
 
+    
 if __name__ == "__main__":
     main()
